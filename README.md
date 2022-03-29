@@ -1,5 +1,5 @@
 # Nero Robot
-![Secre Swallowtail](https://telegra.ph/file/ba4cf0f81f99f13f683c0.jpg)
+![Secre Swallowtail](https://telegra.ph/file/0bceedf28bbb078e77516.jpg)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Nero is suitable for Anime and Manga group chats. 
